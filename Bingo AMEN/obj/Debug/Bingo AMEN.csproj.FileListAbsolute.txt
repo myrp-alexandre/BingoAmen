@@ -1,0 +1,10 @@
+C:\Users\307653\source\repos\Bingo AMEN\Bingo AMEN\bin\Debug\Bingo AMEN.exe.config
+C:\Users\307653\source\repos\Bingo AMEN\Bingo AMEN\bin\Debug\Bingo AMEN.exe
+C:\Users\307653\source\repos\Bingo AMEN\Bingo AMEN\bin\Debug\Bingo AMEN.pdb
+C:\Users\307653\source\repos\Bingo AMEN\Bingo AMEN\obj\Debug\Bingo AMEN.csprojAssemblyReference.cache
+C:\Users\307653\source\repos\Bingo AMEN\Bingo AMEN\obj\Debug\Bingo_AMEN.Properties.Resources.resources
+C:\Users\307653\source\repos\Bingo AMEN\Bingo AMEN\obj\Debug\Bingo AMEN.csproj.GenerateResource.cache
+C:\Users\307653\source\repos\Bingo AMEN\Bingo AMEN\obj\Debug\Bingo AMEN.csproj.CoreCompileInputs.cache
+C:\Users\307653\source\repos\Bingo AMEN\Bingo AMEN\obj\Debug\Bingo AMEN.exe
+C:\Users\307653\source\repos\Bingo AMEN\Bingo AMEN\obj\Debug\Bingo AMEN.pdb
+C:\Users\307653\source\repos\Bingo AMEN\Bingo AMEN\obj\Debug\Bingo_AMEN.Form1.resources
